@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/task_15/bin/Debug/net6.0/task_15
+/Users/kyzlt/Documents/GB/HW/C#/task_15/bin/Debug/net6.0/task_15.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/task_15/bin/Debug/net6.0/task_15.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/task_15/bin/Debug/net6.0/task_15.dll
+/Users/kyzlt/Documents/GB/HW/C#/task_15/bin/Debug/net6.0/task_15.pdb
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.dll
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/refint/task_15.dll
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.pdb
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/task_15.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_15/obj/Debug/net6.0/ref/task_15.dll
