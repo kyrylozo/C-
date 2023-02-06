@@ -1,4 +1,4 @@
-﻿// Принимает на вход координаты 2 точек и находит расстояние между ними в 2D пространстве
+﻿// 21. Принимает на вход координаты 2 точек и находит расстояние между ними в 2D пространстве
 
 Console.Write("1 точка Х: ");
 int X1 = int.Parse(Console.ReadLine());
@@ -14,4 +14,5 @@ int Y2 = int.Parse(Console.ReadLine());
 
 double Distance = Math.Pow((Math.Pow((X2 - X1),2) + (Math.Pow((Y2 - Y1),2))),0.5);
 
-Console.WriteLine($"Distance between two points = {Distance}");
+Console.WriteLine($"Distance between two points = {Math.Round(Distance,4)} m");
+Console.WriteLine(Distance.ToString("c3"));
