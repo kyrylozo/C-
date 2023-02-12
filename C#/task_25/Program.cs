@@ -6,6 +6,8 @@
 // 2, 4 -> 16
 
 // ==============================================================
+// Метод заполнения массива через терминал
+
 // int[]Get_AB()
 // {
 //     int[] Array = new int[2];
@@ -13,8 +15,7 @@
 //     Array[0] = int.Parse(Console.ReadLine());
 //     Console.Write("Enter the 2d number: ");
 //     Array[1] = int.Parse(Console.ReadLine());
-//     return Array;
-    
+//     return Array;   
 // }
 // Console.Write(String.Join(", ", Get_AB()));
 // ==============================================================
