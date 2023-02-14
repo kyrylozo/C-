@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_38/bin/Debug/net6.0/task_38
+/Users/kyzlt/Documents/GB/HW/C#/task_38/bin/Debug/net6.0/task_38.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/task_38/bin/Debug/net6.0/task_38.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/task_38/bin/Debug/net6.0/task_38.dll
+/Users/kyzlt/Documents/GB/HW/C#/task_38/bin/Debug/net6.0/task_38.pdb
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.dll
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/refint/task_38.dll
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.pdb
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/task_38.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/task_38/obj/Debug/net6.0/ref/task_38.dll
