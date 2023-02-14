@@ -8,7 +8,7 @@ int[] Massiv()
     int[] Array = new int[5];
     for(byte ix = 0; ix < 5; ix++)
     {
-        Array[ix] = new Random().Next(1,21);
+        Array[ix] = new Random().Next(-20,21);
     }
     return Array;
 }
