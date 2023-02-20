@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/bin/Debug/net6.0/039_Massive_Transvertion
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/bin/Debug/net6.0/039_Massive_Transvertion.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/bin/Debug/net6.0/039_Massive_Transvertion.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/bin/Debug/net6.0/039_Massive_Transvertion.dll
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/bin/Debug/net6.0/039_Massive_Transvertion.pdb
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.dll
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/refint/039_Massive_Transvertion.dll
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.pdb
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/039_Massive_Transvertion.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/039_Massive_Transvertion/obj/Debug/net6.0/ref/039_Massive_Transvertion.dll
