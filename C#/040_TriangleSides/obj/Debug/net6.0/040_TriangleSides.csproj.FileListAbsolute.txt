@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/bin/Debug/net6.0/040_TriangleSides
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/bin/Debug/net6.0/040_TriangleSides.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/bin/Debug/net6.0/040_TriangleSides.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/bin/Debug/net6.0/040_TriangleSides.dll
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/bin/Debug/net6.0/040_TriangleSides.pdb
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.dll
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/refint/040_TriangleSides.dll
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.pdb
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/040_TriangleSides.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/040_TriangleSides/obj/Debug/net6.0/ref/040_TriangleSides.dll
