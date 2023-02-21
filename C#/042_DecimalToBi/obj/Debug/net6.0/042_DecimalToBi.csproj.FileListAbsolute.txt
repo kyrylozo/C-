@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/bin/Debug/net6.0/042_DecimalToBi
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/bin/Debug/net6.0/042_DecimalToBi.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/bin/Debug/net6.0/042_DecimalToBi.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/bin/Debug/net6.0/042_DecimalToBi.dll
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/bin/Debug/net6.0/042_DecimalToBi.pdb
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.dll
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/refint/042_DecimalToBi.dll
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.pdb
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/042_DecimalToBi.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/042_DecimalToBi/obj/Debug/net6.0/ref/042_DecimalToBi.dll
