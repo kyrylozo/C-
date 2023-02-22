@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/bin/Debug/net6.0/041_CountPositiveNum
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/bin/Debug/net6.0/041_CountPositiveNum.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/bin/Debug/net6.0/041_CountPositiveNum.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/bin/Debug/net6.0/041_CountPositiveNum.dll
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/bin/Debug/net6.0/041_CountPositiveNum.pdb
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.dll
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/refint/041_CountPositiveNum.dll
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.pdb
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/041_CountPositiveNum.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/041_CountPositiveNum/obj/Debug/net6.0/ref/041_CountPositiveNum.dll
