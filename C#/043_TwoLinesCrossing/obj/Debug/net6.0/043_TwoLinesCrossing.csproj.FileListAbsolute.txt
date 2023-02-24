@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/bin/Debug/net6.0/043_TwoLinesCrossing
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/bin/Debug/net6.0/043_TwoLinesCrossing.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/bin/Debug/net6.0/043_TwoLinesCrossing.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/bin/Debug/net6.0/043_TwoLinesCrossing.dll
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/bin/Debug/net6.0/043_TwoLinesCrossing.pdb
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.dll
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/refint/043_TwoLinesCrossing.dll
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.pdb
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/043_TwoLinesCrossing.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/043_TwoLinesCrossing/obj/Debug/net6.0/ref/043_TwoLinesCrossing.dll
