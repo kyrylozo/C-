@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/bin/Debug/net6.0/047_Create2DArray
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/bin/Debug/net6.0/047_Create2DArray.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/bin/Debug/net6.0/047_Create2DArray.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/bin/Debug/net6.0/047_Create2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/bin/Debug/net6.0/047_Create2DArray.pdb
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/refint/047_Create2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.pdb
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/047_Create2DArray.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/047_Create2DArray/obj/Debug/net6.0/ref/047_Create2DArray.dll
