@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/bin/Debug/net6.0/050_FindIn2DArray
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/bin/Debug/net6.0/050_FindIn2DArray.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/bin/Debug/net6.0/050_FindIn2DArray.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/bin/Debug/net6.0/050_FindIn2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/bin/Debug/net6.0/050_FindIn2DArray.pdb
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/refint/050_FindIn2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.pdb
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/050_FindIn2DArray.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/050_FindIn2DArray/obj/Debug/net6.0/ref/050_FindIn2DArray.dll
