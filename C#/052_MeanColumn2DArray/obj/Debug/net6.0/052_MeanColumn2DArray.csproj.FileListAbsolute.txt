@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/bin/Debug/net6.0/052_MeanColumn2DArray
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/bin/Debug/net6.0/052_MeanColumn2DArray.deps.json
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/bin/Debug/net6.0/052_MeanColumn2DArray.runtimeconfig.json
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/bin/Debug/net6.0/052_MeanColumn2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/bin/Debug/net6.0/052_MeanColumn2DArray.pdb
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/refint/052_MeanColumn2DArray.dll
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.pdb
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/052_MeanColumn2DArray.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/HW/C#/052_MeanColumn2DArray/obj/Debug/net6.0/ref/052_MeanColumn2DArray.dll
